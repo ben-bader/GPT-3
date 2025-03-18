@@ -4,7 +4,7 @@ import {
   blog03,
   blog04,
   blog05,
-} from "../../containers/blog/import";
+} from "./import";
 import "./blog.css";
 const Blog = () => {
   return (
